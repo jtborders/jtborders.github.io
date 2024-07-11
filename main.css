@@ -19,6 +19,7 @@ h2 {
 }
 p {
     font-size: 2em;
+    margin-top: 20px;
 }
 a::before {
     color: blue;
@@ -42,6 +43,7 @@ button:hover {
 }
 li {
     font-size: 2em;
+    margin-top: 20px;
 }
 #header {
     background-image: url('background.jpg');
